@@ -1,5 +1,3 @@
 import YbInput from "./YbInput";
 
-export {
-    YbInput 
-};
+export default YbInput;
